@@ -7,6 +7,7 @@ def index(request):
     streams = []
     streams3 = []
     error_message = ""
+    resolution = []
 
     if request.method == 'POST':
         youtube_link = request.POST.get('youtube_link')
