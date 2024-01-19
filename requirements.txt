@@ -1,7 +1,7 @@
 anyio==4.0.0
 asgiref==3.7.2
 certifi==2023.7.22
-Django==4.2.5
+Django==5.0.1
 h11==0.14.0
 httpcore==0.17.3
 httpx==0.24.1
